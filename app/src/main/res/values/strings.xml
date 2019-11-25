@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cyater</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
+    <string name="from">From :</string>
+    <string name="nominal">Nominal</string>
+    <string name="to">To :</string>
+    <string name="convert">convert</string>
+    <string name="curr_sample">USD</string>
+    <string name="symbol_sample">$$$$</string>
+    <string name="list_currencies">List Currencies</string>
+    <string name="empty_string">. . . .</string>
+    <string name="history_of">History of :</string>
+    <string name="at">At :</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="show_8days_before">Show history of 8 days before</string>
+    <string name="show">Show</string>
+
+    <string-array name="testFrom">
+        <item>uwu</item>
+        <item>boo</item>
+        <item>yea</item>
+        <item>gas</item>
+        <item>yah</item>
+        <item>1</item>
+        <item>y2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
